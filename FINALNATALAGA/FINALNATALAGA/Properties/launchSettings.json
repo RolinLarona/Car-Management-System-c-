@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FINALNATALAGA": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
